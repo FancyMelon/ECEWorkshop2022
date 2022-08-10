@@ -1,0 +1,61 @@
+import React from "react";
+import eceSWImg from "../assets/images/logoSmall.png";
+import emailIcon from "../assets/images/email_icon.png";
+import wechatIcon from "../assets/images/instagram.svg";
+import qrCode from "../assets/images/igAccount.JPG";
+
+export default function Footer(props) {
+  return (
+    <div className="footer-container container">
+      <div className="utada-container col-12 col-md-6">
+        <img src={eceSWImg} alt="ECESW" />
+        <code className="utece-text">
+          University of Toronto <br /> Electrical and Computer Engineering
+          Workshops
+        </code>
+      </div>
+      <div className="footer-contents col-12 col-md-6 m-auto">
+        <div className="contacts">
+          <div className="contact email">
+            <a
+              href="mailto:ecesummerworkshop@gmail.com"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img src={emailIcon} alt="ecesummerworkshop@gmail.com" />
+            </a>
+          </div>
+          <div
+            className="contact wechat"
+            data-bs-toggle="modal"
+            data-bs-target="#qrCodeModal"
+          >
+            <img src={wechatIcon} alt="ig" />
+          </div>
+        </div>
+      </div>
+
+      <div className="copyright">
+        Copyright © 2022 University of Toronto Electrical and Computer
+        Engineering Workshops All rights reserved.
+      </div>
+
+      {/* <div className="modal modal-dialog-centered fade qr-code-modal"  id="qrCodeModal" data-bs-keyboard="false" tabIndex="-1" aria-labelledby="qr-code" aria-hidden="true">
+            <img src={qrCode} alt="UT助手" />
+        </div> */}
+      <div
+        className="modal fade qr-code-modal"
+        id="qrCodeModal"
+        tabIndex="-1"
+        aria-labelledby="qrCodeModal"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-dialog-centered">
+          <div className="modal-content">
+            <img src={qrCode} alt="igAcc" />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
