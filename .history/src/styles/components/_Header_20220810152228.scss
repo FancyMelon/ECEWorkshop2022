@@ -22,7 +22,7 @@
     font-weight: 500;
     letter-spacing: 1px;
 
-    background-image: linear-gradient($white 0%, $white 100%);
+    background-image: linear-gradient($light_green 0%, $light_green 100%);
     background-repeat: repeat-x;
     background-position: 0 100%;
     background-size: 1px 3px;
@@ -72,7 +72,7 @@
     &:hover {
       &:before {
         width: 100%;
-        background: rgba($white, 0.5);
+        background: rgba($light_green, 0.6);
       }
     }
 

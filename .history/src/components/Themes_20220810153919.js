@@ -1,5 +1,5 @@
 import React from "react";
-//import Heading from "./Heading";
+import Heading from "./Heading";
 import workshop1 from "../assets/images/workshop1.jpg";
 import workshop2 from "../assets/images/workshop2.jpg";
 import workshop3 from "../assets/images/workshop3.jpg";
@@ -68,10 +68,7 @@ function Themes() {
             <p>
               The third workshop aims to introduce first-year students to some
               frequently used concepts and tools in the second year. The topics
-              that were covered were IDE, Debugger, git, and Hash tables.The
-              topics covered are taken from material in ECE244 and ECE297. Most
-              of the activities are created originally in ways to help
-              first-year students transition into the second year.
+              that were covered were IDE, Debugger, git, and Hash tables.
             </p>
           </div>
         </div>

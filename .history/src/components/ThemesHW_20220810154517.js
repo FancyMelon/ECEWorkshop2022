@@ -1,5 +1,5 @@
 import React from "react";
-//import Heading from "./Heading";
+import Heading from "./Heading";
 import hwworkshop from "../assets/images/HWHL.jpg";
 import workshoppy from "../assets/images/mlpy.jpg";
 
@@ -12,13 +12,14 @@ function ThemesHW() {
       <h2> 2022 Hardware Workshop and Special </h2>
       <div className="themes-intro mx-auto my-2 col-md-8 col-12">
         <p>
-          The motivation for the hardware workshop and machiine learning
-          workshopwas to provide hands-on hardware experience for first year ECE
-          students and also teach students with new concepts that will be
-          covered in second year or in the future. This could fill the vacancy
-          of academic-related activity during the summer for students. The
-          workshop could be a good chance for the students to be prepared when
-          entering the second year of study.
+          The motivation for this workshop was to provide hands-on hardware
+          experience for first year ECE students and also teach students with
+          new concepts that will be covered in second year. This could fill the
+          vacancy of academic-related activity during the summer for students
+          yet not create too much stress for students so that they can focus on
+          the contents of the workshop itself more. The workshop could be a good
+          chance for the students to be prepared when entering the second year
+          of study.
         </p>
       </div>
 

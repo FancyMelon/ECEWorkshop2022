@@ -1,5 +1,5 @@
 import React from "react";
-//import Heading from "./Heading";
+import Heading from "./Heading";
 import hwworkshop from "../assets/images/HWHL.jpg";
 import workshoppy from "../assets/images/mlpy.jpg";
 
@@ -15,10 +15,12 @@ function ThemesHW() {
           The motivation for the hardware workshop and machiine learning
           workshopwas to provide hands-on hardware experience for first year ECE
           students and also teach students with new concepts that will be
-          covered in second year or in the future. This could fill the vacancy
-          of academic-related activity during the summer for students. The
-          workshop could be a good chance for the students to be prepared when
-          entering the second year of study.
+          covered in second year. This could fill the vacancy of
+          academic-related activity during the summer for students yet not
+          create too much stress for students so that they can focus on the
+          contents of the workshop itself more. The workshop could be a good
+          chance for the students to be prepared when entering the second year
+          of study.
         </p>
       </div>
 

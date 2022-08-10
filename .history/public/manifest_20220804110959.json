@@ -1,19 +1,19 @@
 {
-  "short_name": "ECE2022",
-  "name": "ECE Workshop 2022",
+  "short_name": "IF2021",
+  "name": "Innovation Fair 2021",
   "icons": [
     {
-      "src": "logo4.png",
+      "src": "favicon.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/png"
     },
     {
-      "src": "logo4.png",
+      "src": "favicon.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo4.png",
+      "src": "favicon.png",
       "type": "image/png",
       "sizes": "512x512"
     }

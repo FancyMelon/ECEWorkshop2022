@@ -1,5 +1,5 @@
 import React from "react";
-//import Heading from "./Heading";
+import Heading from "./Heading";
 import hwworkshop from "../assets/images/HWHL.jpg";
 import workshoppy from "../assets/images/mlpy.jpg";
 

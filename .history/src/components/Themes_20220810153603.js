@@ -1,5 +1,5 @@
 import React from "react";
-//import Heading from "./Heading";
+import Heading from "./Heading";
 import workshop1 from "../assets/images/workshop1.jpg";
 import workshop2 from "../assets/images/workshop2.jpg";
 import workshop3 from "../assets/images/workshop3.jpg";
@@ -30,12 +30,11 @@ function Themes() {
           <div className="theme-title-container">
             <h5>Workshop 1: Sudoku Project</h5>
             <p>
-              The first workshop was held on May 25th and lasted 2 days. The
-              workshop theme is about Sudoku Project, which intends to make a
-              Sudoku puzzle game in C language. By doing the Sudoku Project,
-              students can review the first-year concepts such as arrays and
-              loops and familiarize themselves with software development
-              routines.
+              Self-isolation challenges our ability to keep mental and physical
+              health by changing our daily routines and disrupting our internal
+              and external balance. How can technical solutions help protect us
+              from physical illness as well as re-balancing our internal
+              well-being?
             </p>
           </div>
         </div>
@@ -48,13 +47,11 @@ function Themes() {
           <div className="theme-title-container">
             <h5>Workshop 2: Research Project Database</h5>
             <p>
-              The second software workshop aimed at more advanced concepts in
-              APS105. The project of research databases required a linked list
-              for its primary data structure and binary search trees to create
-              searching functions based on the last names. The raw data were
-              from ECE496, the design capstone course. The students would create
-              such a database to store the raw data and establish sorting and
-              searching functions.
+              Working and studying from home provided us with a unique
+              experience that can be both difficult and revolutionary. How
+              should technology be utilized to ensure personal organization and
+              assert individual’s sense of control against the irregularities
+              posed by the pandemic?
             </p>
           </div>
         </div>
@@ -66,12 +63,10 @@ function Themes() {
           <div className="theme-title-container">
             <h5>Workshop 3: Coding Environment Setup</h5>
             <p>
-              The third workshop aims to introduce first-year students to some
-              frequently used concepts and tools in the second year. The topics
-              that were covered were IDE, Debugger, git, and Hash tables.The
-              topics covered are taken from material in ECE244 and ECE297. Most
-              of the activities are created originally in ways to help
-              first-year students transition into the second year.
+              Our family, friends, and communities have firmly stood by our side
+              during the pandemic. As our community is heading towards its
+              post-pandemic normality, how can we help to ensure its smooth
+              transition into the new reunion?
             </p>
           </div>
         </div>

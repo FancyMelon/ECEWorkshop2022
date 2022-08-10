@@ -1,6 +1,6 @@
 import React from "react";
 // import Imgix from "react-imgix";
-//import Heading from "./Heading";
+import Heading from "./Heading";
 import AliceCarousel from "react-alice-carousel";
 import "react-alice-carousel/lib/alice-carousel.css";
 import arrowLeft from "../assets/images/arrow-left-filling.svg";

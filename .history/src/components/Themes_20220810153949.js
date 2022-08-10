@@ -1,5 +1,5 @@
 import React from "react";
-//import Heading from "./Heading";
+import Heading from "./Heading";
 import workshop1 from "../assets/images/workshop1.jpg";
 import workshop2 from "../assets/images/workshop2.jpg";
 import workshop3 from "../assets/images/workshop3.jpg";
