@@ -82,9 +82,9 @@
         background-size: 1px 3px;
         transition: all 0.3s ease;
         color: white;
-        // &:hover {
-        //   background-size: 1px 15px;
-        // }
+        &:hover {
+          background-size: 1px 15px;
+        }
 
         &:active {
           transform: scale(0.96);
@@ -112,7 +112,7 @@
     .theme-1:hover {
       p {
         height: $text-box-height;
-        opacity: 1;
+        // opacity: 1;
       }
     }
 
@@ -123,7 +123,7 @@
     .theme-2:hover {
       p {
         height: $text-box-height;
-        opacity: 1;
+        // opacity: 1;
       }
     }
 

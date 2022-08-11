@@ -28,10 +28,7 @@ export default function Header(props) {
               Software
             </a>
             <a className="nav-link" href="#ThemesHW">
-              Python and ML
-            </a>
-            <a className="nav-link" href="#Hardware">
-              Hardware
+              Hardware and Special
             </a>
             <a className="nav-link" href="#Highlights">
               Highlights

@@ -1,6 +1,6 @@
 import React from "react";
 //import Heading from "./Heading";
-import workshopPy1 from "../assets/images/day1Py.jpg";
+import hwworkshop from "../assets/images/HWHL.jpg";
 import workshoppy from "../assets/images/mlpy.jpg";
 
 function ThemesHW() {
@@ -23,7 +23,7 @@ function ThemesHW() {
       <div className="themes mx-auto">
         <div className="theme-1 theme-item">
           <div className="img-container">
-            <img className="theme-img" src={workshopPy1} alt="" />
+            <img className="theme-img" src={hwworkshop} alt="" />
           </div>
 
           <div className="theme-title-container">
@@ -47,12 +47,14 @@ function ThemesHW() {
           <div className="theme-title-container">
             <h5>Day 2: Machine Learning on Handwritten Digit Recognition</h5>
             <p>
-              Day 2 has a heavier emphasis on theory compared to Day 1. The
-              activities are presented in sequence to complete the machine
-              learning program. Day 2 is meant for participants to think and
-              solve each task on their own. The goal is to have each student
-              leaving the workshop knowing to create their own machine learning
-              program with little assistance from others.
+              Day 2 has a heavier emphasis on theory compared to day 1. The
+              activities are presented in sequence in order to complete the
+              machine learning program. As opposed to Day 1 which encourages
+              collaboration, day 2 is meant for participants to think and solve
+              each task on their own. The goals is to have each students leaving
+              the workshop knowing they are capable to creating their own
+              machine learning program with little assistance from the staff and
+              others.
             </p>
           </div>
         </div>

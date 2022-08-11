@@ -35,7 +35,7 @@ function App() {
       <section className="themesHW-section" id="ThemesHW">
         <ThemesHW />
       </section>
-      <section className="hardware-section" id="Hardware">
+      <section className="hardware-section" id="hardware">
         <Hardware />
       </section>
       {

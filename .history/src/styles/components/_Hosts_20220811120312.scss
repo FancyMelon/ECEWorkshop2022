@@ -135,13 +135,15 @@ h2 {
 //     transition-duration: 0.5s;
 //   }
 .sliderimg {
-  align-self: center;
-  width: 90%;
-  height: 800px;
-  object-fit: cover;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 50%;
+  height: 800px;
+  object-fit: cover;
+}
+.imageCon {
+  :center ;
 }
 
 // .gallery {

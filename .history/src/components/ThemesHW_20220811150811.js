@@ -1,6 +1,6 @@
 import React from "react";
 //import Heading from "./Heading";
-import workshopPy1 from "../assets/images/day1Py.jpg";
+import hwworkshop from "../assets/images/HWHL.jpg";
 import workshoppy from "../assets/images/mlpy.jpg";
 
 function ThemesHW() {
@@ -23,7 +23,7 @@ function ThemesHW() {
       <div className="themes mx-auto">
         <div className="theme-1 theme-item">
           <div className="img-container">
-            <img className="theme-img" src={workshopPy1} alt="" />
+            <img className="theme-img" src={hwworkshop} alt="" />
           </div>
 
           <div className="theme-title-container">
