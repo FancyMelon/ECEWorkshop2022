@@ -509,13 +509,14 @@ footer .footer-container .utada-container {
 footer .footer-container .utada-container img {
   -ms-flex-line-pack: start;
       align-content: flex-start;
-  width: 60%;
-  height: 60%;
+  width: 30%;
+  height: 30%;
   -o-object-fit: contain;
      object-fit: contain;
 }
 
 footer .footer-container .utada-container .utece-text {
+  padding-top: 4rem;
   padding-left: 1rem;
   position: relative;
   font-size: larger;

@@ -1,5 +1,5 @@
 import React from "react";
-import brandImg from "../assets/images/logo4.png";
+import brandImg from "../assets/images/logoR.png";
 //import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 //import Gallery from "./Hosts";
 

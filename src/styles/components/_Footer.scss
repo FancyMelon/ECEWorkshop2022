@@ -25,12 +25,13 @@ footer {
       height: auto;
       img {
         align-content: flex-start;
-        width: 60%;
-        height: 60%;
+        width: 30%;
+        height: 30%;
         object-fit: contain;
       }
 
       .utece-text {
+        padding-top: 4rem;
         padding-left: 1rem;
         position: relative;
         font-size: larger;

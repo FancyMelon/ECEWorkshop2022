@@ -1,5 +1,5 @@
 import React from "react";
-import eceSWImg from "../assets/images/logoSmall.png";
+import eceSWImg from "../assets/images/logoR.png";
 import emailIcon from "../assets/images/email_icon.png";
 import wechatIcon from "../assets/images/instagram.svg";
 import qrCode from "../assets/images/igAccount.JPG";
